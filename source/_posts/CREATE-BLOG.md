@@ -74,10 +74,6 @@ deploy:
 
 
 
-neetlify修改位置如下：
-
-<img src="D:\Toolkit\servers\blog\BLOG_\source\blog_pic\netlify.png" alt="netlify" style="zoom: 67%;" />
-
 
 
 
